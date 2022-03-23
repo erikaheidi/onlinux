@@ -1,11 +1,10 @@
 ---
 title: {{ title }}
 description: {{ description }}
-tags: people
+author_twitter: @yourTwitterUser
+tags: desksetups
 cover_image: https://picsum.photos/780/300
 ---
-
-## Your Name
 
 You can tell a bit about yourself here, one paragraph should be enough.
 

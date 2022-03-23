@@ -5,10 +5,17 @@
         </a>
     {% endif %}
 
-    <h1 class="text-3xl lg:text-3xl my-4 text-gray-600 hover:text-blue-800">
+    <h1 class="text-3xl lg:text-3xl mt-4 mb-1 text-gray-600 hover:text-blue-800">
         <a href="{{ site_url() }}/{{ content.getLink() }}" title="Read the full article: {{ content.frontMatterGet('title') }}">{{ content.frontMatterGet('title') ?? content.title }}</a>
     </h1>
-    <p class="text-md text-gray-500 mb-4">{{ content.getDate() }}</p>
+    <p class="text-md text-gray-500 mb-1">{{ content.getDate() }}</p>
+    {% if content.frontMatterHas('author_twitter') %}
+      <p class="text-md text-gray-700 mb-4">
+        <a href="https://twitter.com/{{ content.frontMatterGet('author_twitter') }}" title="Visit {{ content.frontMatterGet('author_twitter') }}'s profile on Twitter">
+          <span class="icon is-medium"><i class="fab fas-lg fa-twitter"></i></span> @{{ content.frontMatterGet('author_twitter') }}
+        </a>
+      </p>
+    {% endif %}
     <article class="prose xl:prose-xl max-w-none mb-6">
         {% if full %}
             {{ content.body_html|raw }}

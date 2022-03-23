@@ -30,22 +30,13 @@ class IndexController extends WebController
             }
         }
 
-        $page = 1;
-        $limit = $this->getApp()->config->posts_per_page ?: 10;
-        $params = $request->getParams();
+        // get latest from each content type.
+        $content_guides = $content_provider->fetchFrom("guides", 0, 4);
+        $content_setups = $content_provider->fetchFrom("desksetup", 0, 1);
 
-        if (key_exists('page', $params)) {
-            $page = $params['page'];
-        }
-
-        $start = ($page * $limit) - $limit;
-
-        $content_list = $content_provider->fetchAll($start, $this->getApp()->config->posts_per_page);
-
-        $output = $twig->render('content/listing.html.twig', [
-            'content_list'  => $content_list,
-            'total_pages' => $content_provider->fetchTotalPages($limit),
-            'current_page' => $page
+        $output = $twig->render('content/index.html.twig', [
+            'content_guides'  => $content_guides,
+            'content_setups'  => $content_setups,
         ]);
 
         $response = new Response($output);

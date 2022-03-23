@@ -1,0 +1,17 @@
+<div class="mb-10 py-4 px-4 bg-white shadow-sm relative">
+    {% if content.frontMatterHas('cover_image') %}
+        <a href="{{ site_root() }}{{ content.getLink() }}" title="Read the full article: {{ content.frontMatterGet('title') }}">
+            <img class="w-full rounded-sm" src="{{ content.frontMatterGet('cover_image')|raw }}" alt="cover image">
+        </a>
+    {% endif %}
+
+    <h1 class="text-xl lg:text-2xl mt-4 mb-1 text-gray-600 hover:text-blue-800">
+        <a href="{{ site_url() }}/{{ content.getLink() }}" title="Read the full article: {{ content.frontMatterGet('title') }}">{{ content.frontMatterGet('title') ?? content.title }}</a>
+    </h1>
+    <div class="text-sm text-gray-400 mb-2">{{ content.getDate() }}</div>
+    <p class="text-md text-gray-500 mb-6">
+        {{ content.frontMatterGet('description') ?? 'No description provided.' }}
+    </p>
+
+    <div class="absolute inset-x-0 bottom-0 text-right text-gray-600 m-4"><a href="{{ site_url() }}/{{ content.getLink() }}" title="Read the full article: {{ content.frontMatterGet('title') }}">Read Article <span class="fa fa-arrow-alt-circle-right"></span></a></div>
+</div>

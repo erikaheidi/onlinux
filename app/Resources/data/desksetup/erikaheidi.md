@@ -1,11 +1,10 @@
 ---
 title: Erika Heidi
 description: This is the profile for Erika Heidi
-tags: people
+author_twitter: erikaheidi
+tags: desksetups
 cover_image: https://picsum.photos/780/300
 ---
-
-## Your Name
 
 You can tell a bit about yourself here, one paragraph should be enough.
 

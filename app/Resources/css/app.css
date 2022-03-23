@@ -1,6 +1,12 @@
-@import "../../../node_modules/tailwindcss/base.css";
-@import "../../../node_modules/tailwindcss/components.css";
-@import "../../../node_modules/tailwindcss/utilities.css";
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 @import "custom.css";
 @import "prism.css";
+@import "/../../../node_modules/@fortawesome/fontawesome-free/css/fontawesome.css";
+@import "/../../../node_modules/@fortawesome/fontawesome-free/css/regular.css";
+@import "/../../../node_modules/@fortawesome/fontawesome-free/css/solid.css";
+@import "/../../../node_modules/@fortawesome/fontawesome-free/css/brands.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
