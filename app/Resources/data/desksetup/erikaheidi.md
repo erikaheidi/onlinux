@@ -6,7 +6,7 @@ tags: desksetups
 cover_image: https://onlinux.ams3.digitaloceanspaces.com/onLinux-systems-post-banners.png
 ---
 
-Hi, I'm Erika, a developer advocate and content creator. I created OnLinux to share my desk setup and how I make everything work on Linux, since that is a frequent question whenever I share photos of my desk on social networks. Here you'll find a detailed list with everything I currently have in my desk setup, with links to more detailed information.
+Hi! I'm Erika, a developer advocate and content creator. I created OnLinux to share my desk setup and how I make everything work on Linux, since that is a frequent question whenever I share photos of my desk on social networks. Here you'll find a detailed list with everything I currently have in my desk setup, including some  links to more detailed information. This page will be frequently updated with links to new device reviews and guides, as I get them published on this website.
 
 ### Current Setup
 
@@ -53,3 +53,5 @@ Hi, I'm Erika, a developer advocate and content creator. I created OnLinux to sh
   - UGreen Mini USB Switch <sup>[[link](https://www.amazon.nl/gp/product/B01N6GD9JO)]</sup>
   - Anker USB Hub
   - Elgato Camlink <sup>[[link](https://www.elgato.com/en/cam-link-4k)]</sup>
+  
+Are you looking for a detailed guide or review about any of these devices? Make a request in our [GitHub Discussions group](https://github.com/erikaheidi/onlinux/discussions) or upvote an existing suggestion / request.
