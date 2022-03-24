@@ -2,4 +2,4 @@
 
 A blog by [@erikaheidi](https://twitter.com/erikaheidi)
 
-(Coming soon...) 
+We are live! https://onlinux.systems
