@@ -13,9 +13,9 @@ return [
     'site_about' => getenv('SITE_ABOUT') ?: '_p/about',
     'posts_per_page' => 10,
     'social_links' => [
-        'Twitter' => getenv('LINK_TWITTER'),
-        'Github'  => getenv('LINK_GITHUB') ?: 'https://github.com/minicli/librarian',
-        'YouTube' => getenv('LINK_YOUTUBE'),
+        'Twitter' => getenv('LINK_TWITTER') ?: 'https://twitter.com/erikaheidi',
+        'Github'  => getenv('LINK_GITHUB') ?: 'https://github.com/erikaheidi/onlinux',
+        'YouTube' => getenv('LINK_YOUTUBE') ?: 'https://youtube.com/c/erikaheidi',
         'LinkedIn' => getenv('LINK_LINKEDIN'),
         'Twitch' => getenv('LINK_TWITCH'),
     ],

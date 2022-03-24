@@ -1,0 +1,24 @@
+alerts:
+- rule: DEPLOYMENT_FAILED
+- rule: DOMAIN_FAILED
+name: onlinux
+region: ams
+services:
+- environment_slug: php
+  envs:
+    - key: APP_DEBUG
+      value: "false"
+    - key: SITE_URL
+      value: ${APP_URL}
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: erikaheidi/onlinux
+  http_port: 8080
+  instance_count: 1
+  instance_size_slug: basic-xs
+  name: onlinux
+  routes:
+  - path: /
+  run_command: heroku-php-apache2 web/
+  source_dir: /
