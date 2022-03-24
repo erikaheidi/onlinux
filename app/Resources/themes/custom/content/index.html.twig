@@ -12,7 +12,7 @@
 
     <h2 class="text-2xl mb-4 font-semibold tracking-tight">Latest Guides</h2>
 
-    <div class="grid grid-cols-2 gap-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         {% for post in content_guides %}
             {% include '_partials/snippet.html.twig' with { 'content': post } %}
         {% endfor %}
@@ -20,7 +20,7 @@
 
     <h2 class="text-2xl mb-4 font-semibold tracking-tight">Devices tested on Linux</h2>
 
-    <div class="grid grid-cols-3 gap-4">
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
         {% for post in content_devices %}
             {% include '_partials/snippet.html.twig' with { 'content': post } %}
         {% endfor %}

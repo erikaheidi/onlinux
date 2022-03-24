@@ -47,18 +47,13 @@
 
 <div class="text-center shadow-sm">
     <div class="container mx-auto">
-        <nav class="flex items-center justify-between flex-wrap py-6 text-white">
-            <div class="flex items-center flex-shrink-0 text-white mr-6">
+        <nav class="flex shrink py-6 text-white mx-4">
+            <div class="shrink-0 sm:basis-1/2 md:basis-1/3 text-white mr-10 text-left items-left">
                 <p class="icon is-xxl"><a href="{{ site_root() }}" title="Go to homepage"><i class="fa fa-lg fa-desktop"></i>
                 <span class="font-semibold text-xl tracking-tight">On Linux Systems</span></a></p>
             </div>
-            <div class="block lg:hidden">
-                <button class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
-                    <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
-                </button>
-            </div>
-            <div class="w-full block flex-grow lg:flex items-left lg:w-auto">
-                <div class="text-sm lg:flex-grow">
+            <div class="hidden lg:flex lg:basis-1/3">
+                <div class="text-sm">
                     <a href="{{ site_root() }}guides" title="Check out our Linux guides" class="block mt-4 lg:inline-block lg:mt-0 hover:text-white mr-4">
                         Guides
                     </a>
@@ -72,24 +67,27 @@
                         About
                     </a>
                 </div>
-                <div class="text-right">
-                    <a href="{{ site_root() }}" title="Home">
-                        <span class="icon is-medium"><i class="fas fas-lg fa-home"></i></span>
-                    </a>
+            </div>
 
-                    {% for title,link in social_links() %}
-                        {% if link %}
-                            <a href="{{ link }}" title="{{ title }}">
+            <div class="flex shrink basis-1/2 md:basis-1/3">
+                <div class="w-full text-right">
+                <a class="px-1" href="{{ site_root() }}" title="Home">
+                    <span class="icon is-medium"><i class="fas fas-lg fa-home"></i></span>
+                </a>
+
+                {% for title,link in social_links() %}
+                    {% if link %}
+                        <a class="px-1" href="{{ link }}" title="{{ title }}">
                             <span class="icon">
                                 <i class="fab fa-{{ title|lower }}"></i>
                             </span>
-                            </a>
-                        {% endif %}
-                    {% endfor %}
+                        </a>
+                    {% endif %}
+                {% endfor %}
 
-                    <a href="{{ site_root() }}feed" title="RSS Feed">
-                        <span class="icon is-medium"><i class="fas fas-lg fa-rss"></i></span>
-                    </a>
+                <a class="px-1" href="{{ site_root() }}feed" title="RSS Feed">
+                    <span class="icon is-medium"><i class="fas fas-lg fa-rss"></i></span>
+                </a>
                 </div>
             </div>
         </nav>
@@ -98,14 +96,13 @@
 </div>
 
 <div class="container mx-auto">
-    <div class="grid grid-cols-1 lg:grid-cols-4 gap-6">
-        <div>
-            {% include '_partials/sidebar.html.twig' %}
-        </div>
-
+    <div class="grid grid-cols-1 lg:grid-cols-4 gap-6 mx-4">
         <div class="lg:col-span-3 px-6 py-6 bg-gray-50 mt-6 rounded-md shadow-lg">
             {% block content %}
             {% endblock %}
+        </div>
+        <div>
+            {% include '_partials/sidebar.html.twig' %}
         </div>
     </div>
 </div>
