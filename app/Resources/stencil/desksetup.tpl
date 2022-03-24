@@ -2,7 +2,7 @@
 title: {{ title }}
 description: {{ description }}
 author_twitter: @yourTwitterUser
-tags: desksetups
+tags: desktop
 cover_image: https://picsum.photos/780/300
 ---
 

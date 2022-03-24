@@ -15,6 +15,7 @@ return [
     'stencil_locations' => [
         'post' => __DIR__ . '/../app/Resources/data/_p',
         'desksetup' => __DIR__ . '/../app/Resources/data/desksetup',
-        'guide' => __DIR__ . '/../app/Resources/data/guides'
+        'guide' => __DIR__ . '/../app/Resources/data/guides',
+        'device' => __DIR__ . '/../app/Resources/data/devices'
     ]
 ];

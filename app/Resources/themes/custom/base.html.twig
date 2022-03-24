@@ -33,11 +33,11 @@
     {% endblock %}
 </head>
 
-<body class="bg-gradient-to-r from-green-600 via-cyan-200 to-purple-700">
+<body class="bg-gradient-to-r from-emerald-600 via-cyan-800 to-indigo-900">
 
 <div class="text-center shadow-sm">
     <div class="container mx-auto">
-        <nav class="flex items-center justify-between flex-wrap bg-teal-500 py-6 text-white">
+        <nav class="flex items-center justify-between flex-wrap py-6 text-white">
             <div class="flex items-center flex-shrink-0 text-white mr-6">
                 <p class="icon is-xxl"><a href="{{ site_root() }}" title="Go to homepage"><i class="fa fa-lg fa-desktop"></i>
                 <span class="font-semibold text-xl tracking-tight">On Linux Systems</span></a></p>
@@ -49,13 +49,16 @@
             </div>
             <div class="w-full block flex-grow lg:flex items-left lg:w-auto">
                 <div class="text-sm lg:flex-grow">
-                    <a href="{{ site_root() }}/guides" title="Check out our Linux guides" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                    <a href="{{ site_root() }}guides" title="Check out our Linux guides" class="block mt-4 lg:inline-block lg:mt-0 hover:text-white mr-4">
                         Guides
                     </a>
-                    <a href="{{ site_root() }}/desksetups" title="Check out our Desktop Setups" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+                    <a href="{{ site_root() }}desksetup" title="Check out our Desktop Setups" class="block mt-4 lg:inline-block lg:mt-0 hover:text-white mr-4">
                         Desk Setups
                     </a>
-                    <a href="{{ site_root() }}/_p/about" title="About this site" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
+                    <a href="{{ site_root() }}devices" title="Check reviewed Devices" class="block mt-4 lg:inline-block lg:mt-0 hover:text-white mr-4">
+                        Devices
+                    </a>
+                    <a href="{{ site_root() }}_p/about" title="About this site" class="block mt-4 lg:inline-block lg:mt-0 hover:text-white">
                         About
                     </a>
                 </div>
