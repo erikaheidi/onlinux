@@ -5,7 +5,7 @@ tags: devices, microphone, audio
 cover_image: https://onlinux.ams3.digitaloceanspaces.com/scarlet.png
 ---
 
-The [Focusrite Scarlet 2i2](https://www.amazon.nl/gp/product/B07QR73T66/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1) is an audio interface with two mic/line/instrument inputs that basically lets you connect microphones and other equipment compatible with [XLR connectors](https://www.amazon.com/AmazonBasics-Male-Female-Microphone-Cable/dp/B01JNLTTKS) to your computer via USB. It offers studio-quality recording for both voice and instruments, and that's one of the reasons they are so popular with podcasters along with a [Shure SMB7 microphone](/devices/shure-smb7).
+The [Focusrite Scarlet 2i2](https://amzn.to/3uveI6j) is an audio interface with two mic/line/instrument inputs that basically lets you connect microphones and other equipment compatible with [XLR cables](https://amzn.to/3uvViym) to your computer via USB. It offers studio-quality recording for both voice and instruments, and that's one of the reasons they are so popular with podcasters along with a [Shure SMB7 microphone](/devices/shure-smb7).
 
 ## OnLinux Review
 

@@ -5,7 +5,7 @@ tags: devices, microphone, audio
 cover_image: https://onlinux.ams3.digitaloceanspaces.com/cloudlifter.png
 ---
 
-The [Cloudlifter CL-1](https://www.amazon.com/gp/product/B004MQSV04/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1) is a microphone pre-amp / lifter / activator that gives a boost to the sound captured by your dynamic microphone. It is strongly recommended as a companion device for the [Shure SMB7](/devices/shure-smb7) microphone.
+The [Cloudlifter CL-1](https://amzn.to/3DcWdaZ) is a microphone pre-amp / lifter / activator that gives a boost to the sound captured by your dynamic microphone. It is strongly recommended as a companion device for the [Shure SMB7](/devices/shure-smb7) microphone.
 
 ## OnLinux Review
 

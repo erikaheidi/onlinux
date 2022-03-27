@@ -16,42 +16,42 @@ Hi! I'm Erika, a developer advocate and content creator. I created OnLinux to sh
 - **Smartphone:**
   - Google Pixel 6 
 - **Display(s):**
-    - Dell UltraSharp 34 Curved monitor <sup>[[link](https://www.dell.com/nl-nl/shop/dell-ultrasharp-34-curved-usb-c-hub-monitor-u3421we/apd/210-axql/monitoren-monitoraccessoires)]</sup>
-    - Dell UltraSharp 27 monitor 
+    - Dell UltraSharp 34 Curved monitor <sup>[[link](https://amzn.to/3NoeKpo)]</sup>
+    - Dell UltraSharp 27 monitor <sup>[[link](https://amzn.to/3DhGQOd)]</sup>
 - **Table / Desk:**
     - Ikea Bekant sit/stand desk <sup>[[link](https://www.ikea.com/nl/en/p/bekant-desk-sit-stand-black-stained-ash-veneer-black-s69282219/#content)]</sub>
 - **Chair:**
     - Herman Miller Mirra 1
-- **Microphone:**
-    - Shure SMB7 <sup>[[link](https://www.amazon.nl/gp/product/B0002E4Z8M)]</sup>
-    - Focusrite Scarlet 2i2 3rd Gen audio interface <sup>[[link](https://www.amazon.nl/gp/product/B07QR73T66/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1)]</sup>
-    - Cloudlifter CL-1 <sup>[[link](https://www.amazon.nl/gp/product/B004MQSV04/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1)]</sup>
+- **Microphone setup:**
+    - [Shure SMB7](/devices/shure-smb7) <sup>[[link](https://amzn.to/3wGY6LD)]</sup>
+    - [Focusrite Scarlet 2i2 3rd Gen audio interface](/devices/focusrite-scarlet-2i2) <sup>[[link](https://amzn.to/3uveI6j)]</sup>
+    - [Cloudlifter CL-1](/devices/cloudlifter-cl-1) <sup>[[link](https://amzn.to/3DcWdaZ)]</sup>
 - **Headphones:**
-    - Corsair Virtuoso RGB Wireless headset <sup>[[link](https://www.amazon.nl/gp/product/B07X71T4R6)]</sup>
-    - JBL Live Bluetooth over-ear <sup>[[link](https://www.amazon.nl/JBL-hoofdtelefoon-ruisonderdrukking-batterijduur-Alexa-integratie/dp/B07N9DNJ62)]
-    - Shure Aonic 215 <sup>[[link](https://www.amazon.nl/gp/product/B08H5XKM26)]</sup>
+    - Corsair Virtuoso RGB Wireless headset <sup>[[link](https://amzn.to/36QzSnb)]</sup>
+    - JBL Live Bluetooth over-ear <sup>[[link](https://amzn.to/3wGId7S)]
+    - Shure Aonic 215 <sup>[[link](https://amzn.to/3tJUMxi)]</sup>
 - **Camera(s):**
-    - Logitech Brio <sup>[[link](https://www.amazon.nl/gp/product/B0748NCPN5)]</sup>
-    - Nikon D5300
+    - Logitech Brio <sup>[[link](https://amzn.to/35dK5tx)]</sup>
+    - Nikon D5300 <sup>[link](https://amzn.to/3qFCifv)]</sup>
 - **Keyboard(s):**
-    - Keychron K6 <sup>[[link](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)]
+    - Keychron K6 aluminium plate + RGB, brown switches <sup>[[link](https://amzn.to/3uDWVu2)]
 - **Mouse:**
     - Jelly Comb vertical mouse
 - **Lights:**
-    - Nanoleaf Shapes <sup>[[link](https://nanoleaf.me/en-EU/products/nanoleaf-shapes/)]</sup>
-    - Elgato Keylight air <sup>[[link](https://www.elgato.com/en/key-light-air)]</sup>
+    - Nanoleaf Shapes <sup>[[link](https://amzn.to/3Ns5zUY)]</sup>
+    - Elgato Keylight air <sup>[[link](https://amzn.to/3wHmjBI)]</sup>
     - Generic LED ring light
 - **Stands / Supports:**
     - Foldable laptop stand
-    - Huanuo Cushioned laptop stand <sup>[[link](https://www.amazon.nl/gp/product/B07XLJK35G)]</sub>
-    - Invision wide display arm <sup>[[link](https://www.amazon.nl/gp/product/B08B8X4KBV)]</sup>
-    - Rode Microphones PSA1 boom <sup>[[link](https://www.amazon.nl/gp/product/B001D7UYBO)]</sup>
+    - Huanuo Cushioned laptop stand <sup>[[link](https://amzn.to/3DfeGDG)]</sub>
+    - Invision wide display arm <sup>[[link](https://amzn.to/3qE6XtY)]</sup>
+    - Rode Microphones PSA1 boom <sup>[[link](https://amzn.to/3NoRfMK)]</sup>
 - **Other Devices and Peripherals:**
-  - Huion Camvas 13 Drawing Tablet <sup>[[link](https://www.amazon.nl/gp/product/B0859D63ZG)]</sup>
-  - MPK Mini - Midi controller
-  - [Elgato Stream Deck](/devices/elgato-stream-deck)
-  - UGreen Mini USB Switch <sup>[[link](https://www.amazon.nl/gp/product/B01N6GD9JO)]</sup>
+  - Huion Camvas 13 Drawing Tablet <sup>[[link](https://amzn.to/3IIEPf6)]</sup>
+  - MPK Mini - Midi controller <sup>[[link](https://amzn.to/3wD5aJ9)]</sup>
+  - [Elgato Stream Deck](/devices/elgato-stream-deck) <sup>[[link](https://amzn.to/35hzCxo)]</sup>
+  - UGreen Mini USB Switch <sup>[[link](https://amzn.to/3wM5qWB)]</sup>
   - Anker USB Hub
-  - Elgato Camlink <sup>[[link](https://www.elgato.com/en/cam-link-4k)]</sup>
+  - Elgato Camlink <sup>[[link](https://amzn.to/3DhRx3G)]</sup>
   
 Are you looking for a detailed guide or review about any of these devices? Make a request in our [GitHub Discussions group](https://github.com/erikaheidi/onlinux/discussions) or upvote an existing suggestion / request.
