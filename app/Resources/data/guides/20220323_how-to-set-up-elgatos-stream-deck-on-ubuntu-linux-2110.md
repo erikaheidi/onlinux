@@ -6,7 +6,7 @@ tags: tutorial, streaming, livecoding, linux
 cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2w7n17f0v3ubqogpbn85.png
 ---
 
-Popular with streamers everywhere in the world, the [Elgato Stream Deck](https://www.elgato.com/en/stream-deck) is a customizable device that works as an external input, and can be configured to trigger commands and shortcuts at the press of a button. And although the device is super popular with live streamers, it is also very useful for anyone who works with several different applications on a desktop setting, since it greatly facilitates switching windows and running commands on your computer.
+Popular with streamers everywhere in the world, the [Elgato Stream Deck](/devices/elgato-stream-deck) is a customizable device that works as an external input, and can be configured to trigger commands and shortcuts at the press of a button. And although the device is super popular with live streamers, it is also very useful for anyone who works with several different applications on a desktop setting, since it greatly facilitates switching windows and running commands on your computer.
 
 While this looks like a very useful device, the official website says the device is only supported on MacOS and Windows systems. A bummer, for sure! That's what kept me from buying one for quite some time.
 
