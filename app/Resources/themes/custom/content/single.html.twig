@@ -1,5 +1,5 @@
 {% extends 'base.html.twig' %}
-
+{% block title %} {{ content.frontMatterGet('title') }} - {{ site_title()}} {% endblock %}
 {% block meta %}
     <meta name="author" content="{{ content.frontMatterGet('author') ?? config('site_author') }}">
     <meta property="og:title" content="{{ content.frontMatterGet('title') }}">
