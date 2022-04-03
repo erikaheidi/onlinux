@@ -6438,13 +6438,17 @@ Ensure the default browser behavior of the `hidden` attribute.
     font-size: 3rem;
     line-height: 1;
 }
-.text-3xl{
-    font-size: 1.875rem;
-    line-height: 2.25rem;
+.text-4xl{
+    font-size: 2.25rem;
+    line-height: 2.5rem;
 }
 .text-2xl{
     font-size: 1.5rem;
     line-height: 2rem;
+}
+.text-3xl{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
 }
 .font-semibold{
     font-weight: 600;
@@ -6531,6 +6535,10 @@ Ensure the default browser behavior of the `hidden` attribute.
     .md\:grid-cols-3{
         grid-template-columns: repeat(3, minmax(0, 1fr));
     }
+    .md\:text-5xl{
+        font-size: 3rem;
+        line-height: 1;
+    }
 }
 @media (min-width: 1024px){
     .lg\:col-span-3{
@@ -6551,13 +6559,13 @@ Ensure the default browser behavior of the `hidden` attribute.
     .lg\:grid-cols-4{
         grid-template-columns: repeat(4, minmax(0, 1fr));
     }
-    .lg\:text-3xl{
-        font-size: 1.875rem;
-        line-height: 2.25rem;
-    }
     .lg\:text-2xl{
         font-size: 1.5rem;
         line-height: 2rem;
+    }
+    .lg\:text-3xl{
+        font-size: 1.875rem;
+        line-height: 2.25rem;
     }
 }
 @media (min-width: 1280px){

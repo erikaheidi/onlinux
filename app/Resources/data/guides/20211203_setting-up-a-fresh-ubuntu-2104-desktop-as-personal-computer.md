@@ -1,5 +1,6 @@
 ---
 title: Setting Up a Fresh Ubuntu 21.04 Desktop as Personal Computer
+author_twitter: erikaheidi
 published: true
 description: I've been an Ubuntu user for a long time, it is a system where I feel very comfortable so that means it also makes me more productive. I decided to try the newest release, the brand new 21.04 a.k.a Hirsute Hippo. In this post, I share all my setup process.
 tags: linux, ubuntu, setup, tutorial
