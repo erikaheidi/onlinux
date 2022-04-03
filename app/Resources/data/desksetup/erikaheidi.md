@@ -54,4 +54,11 @@ Hi! I'm Erika, a developer advocate and content creator. I created OnLinux to sh
   - Anker USB Hub
   - Elgato Camlink <sup>[[link](https://amzn.to/3DhRx3G)]</sup>
   
+
+## Related Guides
+
+{% guide 20220325_how-to-connect-and-use-the-shure-smb7-microphone-on-linux-ubuntu-2110 %}
+
+{% guide 20220323_how-to-set-up-elgatos-stream-deck-on-ubuntu-linux-2110 %}
+
 Are you looking for a detailed guide or review about any of these devices? Make a request in our [GitHub Discussions group](https://github.com/erikaheidi/onlinux/discussions) or upvote an existing suggestion / request.

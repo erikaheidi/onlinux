@@ -25,3 +25,13 @@ Clean recording without background noise:
 
 Recording with background noise:
 {% audio /audio/mic_samples/shure_smb7.mp3 %}
+
+## Related
+
+{% guide 20220325_how-to-connect-and-use-the-shure-smb7-microphone-on-linux-ubuntu-2110 %}
+
+{% embed 20220328_microphones-compared %}
+
+{% device focusrite-scarlet-2i2 %}
+
+{% device cloudlifter-cl-1 %}

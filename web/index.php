@@ -3,6 +3,8 @@
 require __DIR__ . '/../vendor/autoload.php';
 
 use App\LiquidTag\Device;
+use App\LiquidTag\Embed;
+use App\LiquidTag\Guide;
 use App\LiquidTag\YouTube;
 use Minicli\App;
 use Librarian\Provider\TwigServiceProvider;
@@ -25,6 +27,8 @@ $app->librarian->boot();
 
 $app->content->registerTagParser('newtube', new YouTube());
 $app->content->registerTagParser('device', new Device());
+$app->content->registerTagParser('embed', new Embed());
+$app->content->registerTagParser('guide', new Guide());
 
 try {
     /** @var RouterServiceProvider $router */
