@@ -31,7 +31,7 @@ class IndexController extends WebController
         }
 
         // get latest from each content type.
-        $content_guides = $content_provider->fetchFrom("guides", 0, 2);
+        $content_guides = $content_provider->fetchFrom("guides", 0, 4);
         $content_setups = $content_provider->fetchFrom("desksetup", 0, 1);
         $content_devices = $content_provider->fetchFrom("devices", 0, 3, false, 'rand');
 
