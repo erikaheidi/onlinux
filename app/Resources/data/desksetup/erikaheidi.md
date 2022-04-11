@@ -27,14 +27,14 @@ Hi! I'm Erika, a developer advocate and content creator. I created OnLinux to sh
     - [Focusrite Scarlet 2i2 3rd Gen audio interface](/devices/focusrite-scarlet-2i2) <sup>[[link](https://amzn.to/3uveI6j)]</sup>
     - [Cloudlifter CL-1](/devices/cloudlifter-cl-1) <sup>[[link](https://amzn.to/3DcWdaZ)]</sup>
 - **Headphones:**
-    - Corsair Virtuoso RGB Wireless headset <sup>[[link](https://amzn.to/36QzSnb)]</sup>
+    - [Corsair Virtuoso RGB Wireless headset](/devices/corsair-virtuoso-wireless-headset) <sup>[[link](https://amzn.to/36QzSnb)]</sup>
     - JBL Live Bluetooth over-ear <sup>[[link](https://amzn.to/3wGId7S)]
     - Shure Aonic 215 <sup>[[link](https://amzn.to/3tJUMxi)]</sup>
 - **Camera(s):**
     - Logitech Brio <sup>[[link](https://amzn.to/35dK5tx)]</sup>
     - Nikon D5300 <sup>[link](https://amzn.to/3qFCifv)]</sup>
 - **Keyboard(s):**
-    - Keychron K6 aluminium plate + RGB, brown switches <sup>[[link](https://amzn.to/3uDWVu2)]
+    - [Keychron K6 aluminium plate + RGB, brown switches](/devices/keychron-k6) <sup>[[link](https://amzn.to/3uDWVu2)]
 - **Mouse:**
     - Jelly Comb vertical mouse
 - **Lights:**
@@ -53,6 +53,7 @@ Hi! I'm Erika, a developer advocate and content creator. I created OnLinux to sh
   - UGreen Mini USB Switch <sup>[[link](https://amzn.to/3wM5qWB)]</sup>
   - Anker USB Hub
   - Elgato Camlink <sup>[[link](https://amzn.to/3DhRx3G)]</sup>
+  - Elgato Chroma Key <sup>[[link]]()</sup>
   
 
 ## Related Guides

@@ -2,7 +2,7 @@
 title: Shure SMB7
 description: Shure SMB7 microphone overview and how it works on Linux
 tags: devices, microphones, audio
-cover_image: https://onlinux.ams3.digitaloceanspaces.com/shure_smb7.png
+cover_image: https://onlinux.ams3.digitaloceanspaces.com/shure_smb7_guide.png
 ---
 
 The [Shure SMB7 dynamic microphone](https://amzn.to/3wGY6LD) is a popular choice for outstanding voice recording, used by professional musicians, podcasters, youtubers... It's one of the best microphones available in the market, especially designed for voice recording. Because it is a professional microphone that uses a [XLR connection](https://amzn.to/3uvViym) (and not a USB plug-and-play one), you will need a couple more devices in order to connect this beauty to your computer:
