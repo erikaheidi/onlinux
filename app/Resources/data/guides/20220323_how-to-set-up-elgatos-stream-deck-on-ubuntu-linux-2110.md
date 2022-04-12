@@ -11,9 +11,7 @@ Popular with streamers everywhere in the world, the [Elgato Stream Deck](/device
 
 While this looks like a very useful device, the official website says the device is only supported on MacOS and Windows systems. A bummer, for sure! That's what kept me from buying one for quite some time.
 
-Turns out I got a [really nice package from the GitHub Stars program](https://twitter.com/erikaheidi/status/1439919049136353284) including a 15-button Stream Deck. I have heard rumors that it was possible to run it on Linux, and that's what brought me to this article! As you can see from the video, I got it working here:
-
-{% tweet 1466024623108153347 %}
+Turns out I got a [really nice package from the GitHub Stars program](https://twitter.com/erikaheidi/status/1439919049136353284) including a 15-button Stream Deck. I have heard rumors that it was possible to run it on Linux, and that's what brought me to this article! 
 
 In this post I'll share how I set up my Stream Deck on an **Ubuntu 21.10** system and which commands / tools I configured so far.
 

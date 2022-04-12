@@ -13,3 +13,12 @@ The [Cloudlifter CL-1](https://amzn.to/3DcWdaZ) is a microphone pre-amp / lifter
   - This device does not connect directly to a computer, it is used between the microphone and the audio interface. It works at the hardware level.
 - **Tested with**
   - Ubuntu 21.04+
+  
+
+## Related
+
+{% guide 20220325_how-to-connect-and-use-the-shure-smb7-microphone-on-linux-ubuntu-2110 %}
+
+{% device shure-smb7 %}
+
+{% device focusrite-scarlet-2i2 %}
