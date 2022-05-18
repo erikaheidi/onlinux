@@ -2,18 +2,26 @@
 
 {% block content %}
 
-    <h2 class="text-2xl mb-4 font-semibold tracking-tight">Desktop Setup</h2>
+    <h2 class="text-2xl mb-4 font-semibold tracking-tight">Latest Guides</h2>
 
+    <!-- featured -->
     <div class="grid grid-cols-1 gap-4">
-        {% for post in content_setups %}
+        {% for post in featured %}
             {% include '_partials/snippet.html.twig' with { 'content': post } %}
         {% endfor %}
     </div>
 
-    <h2 class="text-2xl mb-4 font-semibold tracking-tight">Latest Guides</h2>
-
+    <!-- additional -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         {% for post in content_guides %}
+            {% include '_partials/snippet.html.twig' with { 'content': post } %}
+        {% endfor %}
+    </div>
+
+    <h2 class="text-2xl mb-4 font-semibold tracking-tight">Desktop Setup</h2>
+
+    <div class="grid grid-cols-1 gap-4">
+        {% for post in content_setups %}
             {% include '_partials/snippet.html.twig' with { 'content': post } %}
         {% endfor %}
     </div>
@@ -25,5 +33,7 @@
             {% include '_partials/snippet.html.twig' with { 'content': post } %}
         {% endfor %}
     </div>
+
+
 {% endblock%}
 
