@@ -47,7 +47,7 @@ Hi! I'm Erika, a developer advocate and content creator. I created OnLinux to sh
     - Invision wide display arm <sup>[[link](https://amzn.to/3qE6XtY)]</sup>
     - Rode Microphones PSA1 boom <sup>[[link](https://amzn.to/3NoRfMK)]</sup>
 - **Other Devices and Peripherals:**
-  - Huion Camvas 13 Drawing Tablet <sup>[[link](https://amzn.to/3IIEPf6)]</sup>
+  - [Huion Camvas 13 Drawing Tablet](/devices/huion-kamvas-13-tablet) <sup>[[link](https://amzn.to/3IIEPf6)]</sup>
   - MPK Mini - Midi controller <sup>[[link](https://amzn.to/3wD5aJ9)]</sup>
   - [Elgato Stream Deck](/devices/elgato-stream-deck) <sup>[[link](https://amzn.to/35hzCxo)]</sup>
   - UGreen Mini USB Switch <sup>[[link](https://amzn.to/3wM5qWB)]</sup>

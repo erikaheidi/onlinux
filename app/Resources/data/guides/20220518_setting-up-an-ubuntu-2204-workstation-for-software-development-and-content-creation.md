@@ -45,8 +45,8 @@ Then, change the permissions of the SSH directory and key files:
 
 ```shell
 chmod 700 ~/.ssh
-chmod 644 .ssh/id_ed25519.pub
-chmod 600 .ssh/id_ed25519
+chmod 644 ~/.ssh/id_ed25519.pub
+chmod 600 ~/.ssh/id_ed25519
 ```
 
 Finally, add the key to the SSH agent:
