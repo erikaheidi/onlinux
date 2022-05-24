@@ -2,7 +2,7 @@
 title: How to Set Up Elgato's Stream Deck on Ubuntu Linux 22.04
 author_twitter: erikaheidi
 published: true
-description: In this post I'll share how I got my Elgato StreamDeck set up on Ubuntu 22.03 and how I use it to switch windows and run commands on my system.
+description: In this post I'll share how I got my Elgato StreamDeck set up on Ubuntu 22.04 and how I use it to switch windows and run commands on my system.
 tags: tutorial, streaming, livecoding, linux
 cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2w7n17f0v3ubqogpbn85.png
 ---

@@ -15,7 +15,11 @@ Turns out I got a [really nice package from the GitHub Stars program](https://tw
 
 In this post I'll share how I set up my Stream Deck on an **Ubuntu 21.10** system and which commands / tools I configured so far.
 
-_Note: this was tested on Ubuntu 21.04 and Ubuntu 21.10, but it might work with other versions as well._
+### Newer Version
+
+There's a newer version of this guide available for Ubuntu 22.04:
+
+{% guide 20220520_how-to-set-up-elgatos-stream-deck-on-ubuntu-linux-2204 %}
 
 ## Step 1: Install `streamdeck-ui`
 
