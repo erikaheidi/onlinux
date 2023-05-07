@@ -1,5 +1,3 @@
-# On Linux Systems
+# MOVED
 
-A blog by [@erikaheidi](https://twitter.com/erikaheidi)
-
-We are live! https://onlinux.systems
+This has moved to [erikaheidi/onlinux-systems](https://github.com/erikaheidi/onlinux-systems).
